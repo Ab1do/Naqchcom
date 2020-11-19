@@ -1,0 +1,261 @@
+@media (max-width: 992px) {
+    .home-section .home-decoration-top {
+        width: 401.7px;
+        height: 397.4px;
+    }
+    .home-section .home-decoration-bottom {
+        margin-top: 40.5px;
+    }
+    .home-section .home-content .home-para {
+        padding: 0;
+        width: 380px;
+        height: 140px;
+        margin: 5px 0 10px;
+        font-family: Cairo;
+        font-size: 15px;
+    }
+    /* Service Section */
+    .triangle-shapes {
+        bottom: -10%;
+    }
+    /*  */
+    .d-md-hide {
+        display: none;
+    }
+    /* Register */
+    .register {
+        height: auto;
+        padding: 30px 0;
+    }
+    .input-form {
+        margin-bottom: 28.9px;
+    }
+}
+
+@media (max-width: 768px) {
+    /* header */
+    .navbar {
+        padding: 10px 0;
+    }
+    .logo-phone {
+        width: 50px;
+        height: 50px;
+    }
+    /* fixed nav */
+    .nav-item .nav-content {
+        padding-top: 50px;
+    }
+    .nav-item .nav-content a {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .nav-item .nav-content a:hover span.deco {
+        width: 6.3px;
+        height: 6.3px;
+    }
+    .nav-item .c-logo .ex-btn img {
+        width: 30px;
+        height: 30px;
+    }
+    /* home */
+    .home-section {
+        padding-bottom: 15px;
+    }
+    .home-section .home-content {
+        padding: 0;
+        margin: -50px auto 0;
+        width: 60%;
+    }
+    .home-section .home-decoration-top {
+        width: 331.6px;
+        height: 336.2px;
+    }
+    .home-section .home-decoration-bottom {
+        width: 447.8px;
+        height: 60.1px;
+    }
+    .home-section .home-content .home-para {
+        padding: 0;
+        width: 340px;
+        height: 180px;
+        margin: 5px 0 10px;
+        font-family: Cairo;
+        font-size: 15px;
+    }
+    /* Service Section */
+    .services-section {
+        padding: 39.2px 0 33px;
+    }
+    .service-item {
+        width: 100%;
+    }
+    .section-title {
+        margin-bottom: 32.7px;
+    }
+    .section-title .title-square {
+        font-size: 14px;
+    }
+    .section-title .subtitle {
+        font-size: 16px;
+    }
+    .service-item p {
+        font-size: 12px;
+        padding-left: 0;
+    }
+    .triangle-shapes {
+        bottom: -4%;
+        border-width: 0 0 104px 104px;
+    }
+    .title-square span {
+        right: -14.3px;
+        bottom: -2.3px;
+    }
+    /* Project section */
+    .project-section .section-title {
+        margin-bottom: 0;
+    }
+    .project-section .project-item img {
+        width: 100%;
+    }
+    .d-sm-hide {
+        display: none;
+    }
+    .project-section .but-group button {
+        padding-left: 10px;
+        font-size: 11px;
+    }
+    /* Reister */
+    .form-followStep .step {
+        flex-basis: 50%;
+        position: relative;
+        margin-bottom: 13.6px;
+    }
+    .form-followStep .step span {
+        font-size: 10px;
+    }
+    .form-followStep .step svg {
+        position: absolute;
+        left: 50px;
+        top: 20%;
+    }
+    /* Contact */
+    .contact-section {
+        padding-bottom: 24.3px;
+    }
+    .subscribe .email .email-box {}
+    .subscribe {
+        margin-bottom: 42.7px;
+    }
+    .contact-info .subscribe .email .email-box {
+        width: 100%;
+    }
+    .contact-info .subscribe .email .email-box input::placeholder {
+        font-size: 10px;
+    }
+    .fast-link {
+        margin-bottom: 39.4px;
+    }
+    .fast-link .group-p {
+        display: flex;
+    }
+    .fast-link .group-p .part-2, .fast-link .group-p .part-1 {
+        flex-basis: 50%;
+    }
+    /* footer */
+    footer p {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 410px) {
+    /* title */
+    .title-square {
+        width: 36px;
+        height: 30px;
+        margin: 0 4.6px 0 0;
+        font-family: Cairo;
+        font-size: 16px;
+    }
+    /* header */
+    .logo-phone {
+        width: 30px;
+        height: 30px;
+    }
+    /* Header */
+    .navbar .nav-logo img {
+        width: 30px;
+        height: 30px;
+    }
+    .navbar .nav-icon img {
+        width: 30px;
+        height: 30px;
+    }
+    /* home */
+    .home-section {
+        padding-bottom: 15px;
+    }
+    .home-section .home-content {
+        padding: 0;
+        margin: -50px auto 0;
+        width: 55%;
+    }
+    .home-section .home-decoration-top {
+        width: 269.6px;
+        height: 268.2px;
+    }
+    .home-section .home-content h1 {
+        width: 186px;
+        height: 61px;
+        margin: 4.8px 0 5px 19px;
+        font-family: Cairo;
+        font-size: 18px;
+    }
+    .home-section .home-content .home-para {
+        width: 205px;
+        height: 177px;
+        margin: 5px 0 10px;
+        font-family: Cairo;
+        font-size: 12px;
+    }
+    .home-section .home-content .btn-home {
+        width: 100px;
+        height: 30px;
+        margin: 10px 0 0 105px;
+        padding: 2px 29px;
+        font-family: Cairo;
+        font-size: 14px;
+        /* margin: 0; */
+    }
+    .home-section .home-decoration-bottom {
+        width: 184.8px;
+        height: 55.1px;
+        margin: 38.5px 0.1px 0.4px 44.2px;
+        object-fit: contain;
+        display: inline-block;
+        padding: 0;
+    }
+    /* Project Section */
+    .project-section {
+        padding: 64.2px 0 48px;
+    }
+    .project-section .but-group button {
+        padding-left: 10px;
+        font-size: 7px;
+        margin-bottom: 15px;
+    }
+    .project-section .project-item {
+        margin-bottom: 14.6px;
+    }
+    .project-section .project-bottonAll {
+        margin-top: 28.5px;
+    }
+    .project-section .project-bottonAll .project-btn {
+        margin-bottom: 112px;
+    }
+    /* Redister */
+    .form-followStep .step svg {
+        position: absolute;
+        left: 20px;
+        top: 20%;
+    }
+}
